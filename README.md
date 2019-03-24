@@ -1,4 +1,12 @@
-# SoPra RESTful Service Template FS18
+# SoPra Project FS18
+
+## Contributors
+* **Timucin Besken**- [TimP4w](https://github.com/TimP4w)
+* **Patrick Sonderegger**- [MrDStar](https://github.com/MrDStar)
+* **Vincent Theus**- [Specter96](https://github.com/Specter96)
+* **Raffael Forrer**- [RaffaelJonas](https://github.com/RaffaelJonas)
+* **Loris Bachmann**- [JackGrant](https://github.com/JackGrant)
+
 
 ## Spring Boot
 
@@ -47,7 +55,4 @@ More Information about [Gradle Wrapper](https://docs.gradle.org/current/userguid
 ./gradlew test
 ```
 
-## API Endpoint Testing
-### Postman
 
-* We highly recommend to use [Postman](https://www.getpostman.com) in order to test your API Endpoints. 
